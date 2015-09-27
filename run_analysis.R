@@ -1,3 +1,4 @@
+
 path = 'D:/R workspace/UCI HAR Dataset/'
 
 test_path = paste0(path,'test/')
